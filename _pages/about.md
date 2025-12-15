@@ -1,43 +1,34 @@
 ---
 permalink: /
-title: "Yejing XIE - Academic Homepage"
+title: "Yejing XIE"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic personal website! I am Yejing XIE, a researcher dedicated to advancing knowledge in my field through rigorous research, collaboration, and mentorship. ## About Me
+I am Yejing XIE, a researcher dedicated to advancing knowledge in my field through rigorous research, collaboration, and mentorship.
 ======
 
-I am passionate about [your research area], with a focus on [specific research interests]. My work combines [key methodologies/approaches] to address [research problems]. Through my research, I aim to [research goals/impact].
+I am passionate about Deep Learning, with a focus on Document Analysis. My PhD thesis combines Graph Neural Networks and Transformer-based Language Model to address Handwritten Mathematical Expression Recognition. 
+<!-- Through my research, I aim to [research goals/impact]. -->
 
 ## Research Interests
 ======
 
-- Primary Research Area 1
-- Primary Research Area 2
-- Primary Research Area 3
-- Cross-disciplinary Topic
-
-## Professional Background
-======
-
-I have worked in academia and industry, collaborating with leading researchers and organizations. My experience spans [key areas], and I am committed to:
-- Conducting innovative research
-- Mentoring graduate and undergraduate students
-- Contributing to my research community through collaboration and service
-- Translating research into practical applications
+- Graph Neural Networks
+- Language Model
+- Document Analysis
+- Math Recognition
 
 ## Navigation
 ======
 
 Explore my work through the following sections:
 - **[Publications](/publications/)** - My peer-reviewed research papers and preprints
-- **[Talks](/talks/)** - Conference presentations, seminars, and keynote addresses
+- **[Talks](/talks/)** - Conference presentations, seminars
 - **[Teaching](/teaching/)** - Courses I teach and educational materials
 - **[CV](/cv/)** - My detailed curriculum vitae
-- **[Portfolio](/portfolio/)** - Research projects, datasets, and other work
 
 ## Latest Updates
 ======

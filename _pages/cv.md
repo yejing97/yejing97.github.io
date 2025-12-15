@@ -39,17 +39,18 @@ Project and Work experience
 Skills
 ======
 * Technical Skills
-  * Skill 1
-  * Skill 2
-  * Skill 3
+  * Deep Learning, Vision-Language Models, Graph Neural Networks ...
+  * Python, Bash, Perl, PyTorch, Optuna, HuggingFace, vllm ...
+  * Linux, LaTeX ...
 * Research Skills
-  * Research methodology
-  * Statistical analysis
-  * [Other relevant skills]
+  * Research Design & Experimental Evaluation
+  * Model training & optimization
+  * Scientific Writing & Peer-reviewed Publications
+  * Benchmarking & Error Analysis
 * Professional Skills
-  * Written communication
-  * Presentation
-  * Project management
+  * Language: English (Fluent), French (Fluent), Chinese (Native)
+  * Problem-Solving
+  * Collaboration in International Research Teams
 
 <!-- Publications
 ======

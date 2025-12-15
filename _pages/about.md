@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yejing XIE"
+title: "Intro"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 I am Yejing XIE, a researcher dedicated to advancing knowledge in my field through rigorous research, collaboration, and mentorship.
 ======
 
-I am passionate about Deep Learning, with a focus on Document Analysis. My PhD thesis combines Graph Neural Networks and Transformer-based Language Model to address Handwritten Mathematical Expression Recognition. 
+I am passionate about **Deep Learning**, with a focus on **Document Analysis**. My PhD thesis combines **Graph Neural Networks** and **Transformer-based Language Model** to address Handwritten Mathematical Expression Recognition. 
 <!-- Through my research, I aim to [research goals/impact]. -->
 
 ## Research Interests

@@ -36,6 +36,10 @@ Project and Work experience
   * Project cooperate with Tencent
   * Published paper: "Multi-modal aesthetic assessment for mobile gaming image." 2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2021.
 
+* 2018/06 - 2018/09: Intern
+  * Huawei Suzhou Research Institute
+  * Software Development
+
 Skills
 ======
 * Technical Skills
@@ -56,7 +60,7 @@ Publications
 ======
 All the publications see [Complete Publications List](/publications/)
 
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -72,4 +76,4 @@ Service and leadership
 ======
 * [Professional association/committee name] - [role], [years]
 * [University committee name] - [role], [years]
-* [Other service activities]
+* [Other service activities] -->

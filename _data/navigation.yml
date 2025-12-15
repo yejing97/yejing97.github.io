@@ -11,6 +11,9 @@ main:
   - title: "Home"
     url: /
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
@@ -18,13 +21,4 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/

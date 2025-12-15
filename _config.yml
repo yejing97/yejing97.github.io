@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jing Ye | Academic Homepage"
+title                    : "Yejing XIE | Academic Homepage"
 title_separator          : "-"
-name                     : &name "Jing Ye"
-description              : &description "Academic personal website - Research, Publications, and CV"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yejing XIE"
+description              : &description "Yejing XIE's academic personal website - Research, Publications, and CV"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yejing97.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "yejing97/yejing97.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jing Ye"
+  name             : "Yejing XIE"
   pronouns         : # example: "she/her"  
   bio              : "Researcher and Academic Professional"
   location         : "Earth"
   employer         : "Your University"
   uri              : # URL
-  email            : "jing@example.org" 
+  email            : "yejing@example.org" 
 
   # Academic websites
   academia         : # URL

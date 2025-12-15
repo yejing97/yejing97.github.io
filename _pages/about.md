@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Jing Ye - Academic Homepage"
+title: "Yejing XIE - Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic personal website! I am a researcher dedicated to advancing knowledge in my field through rigorous research, collaboration, and mentorship. ## About Me
+Welcome to my academic personal website! I am Yejing XIE, a researcher dedicated to advancing knowledge in my field through rigorous research, collaboration, and mentorship. ## About Me
 ======
 
 I am passionate about [your research area], with a focus on [specific research interests]. My work combines [key methodologies/approaches] to address [research problems]. Through my research, I aim to [research goals/impact].

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yejing XIE, a researcher dedicated to advancing knowledge in my field through rigorous research, collaboration, and mentorship.
+I am Yejing XIE, a recent PhD graduate.
 ======
 
 I am passionate about **Deep Learning**, with a focus on **Document Analysis**. My PhD thesis combines **Graph Neural Networks** and **Transformer-based Language Model** to address Handwritten Mathematical Expression Recognition. 

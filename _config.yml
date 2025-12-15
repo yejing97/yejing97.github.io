@@ -23,14 +23,14 @@ repository               : "yejing97/yejing97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Yejing XIE"
+  avatar           : "yejing.jpeg"
+  name             : "Dr. Yejing XIE"
   pronouns         : # example: "she/her"  
   bio              : "Researcher and Academic Professional"
   location         : "Earth"
-  employer         : "Your University"
+  employer         : "Nantes Université, France"
   uri              : # URL
-  email            : "yejing@example.org" 
+  email            : "yejing.xie@univ-nantes.fr" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.fr/citations?user=EZSxn4cAAAAJ&hl=fr&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # ORCID URL
+  orcid            : "https://orcid.org/0009-0002-8360-4696"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yejing-xie/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

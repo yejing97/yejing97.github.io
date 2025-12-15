@@ -52,12 +52,10 @@ Skills
   * Problem-Solving
   * Collaboration in International Research Teams
 
-<!-- Publications
+Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+All the publications see [Complete Publications List](/publications/)
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -74,4 +72,4 @@ Service and leadership
 ======
 * [Professional association/committee name] - [role], [years]
 * [University committee name] - [role], [years]
-* [Other service activities] -->
+* [Other service activities]

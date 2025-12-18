@@ -29,14 +29,6 @@ Selected Projects
   - Mathematical Expression recognition for [Leibniz Manuscripts](https://anr.fr/Project-ANR-17-CE27-0018). Paper and Datasets are coming soon.  
   __Keywords:__ Historical Mathematical Expression, Low Resource Documents
 
-
-Education
-======
-* Ph.D in Computer Science and Artificial Intelligence, Nantes Université, 2025
-* M.S. in Computer Science and Application, Ocean University of China, 2022
-* M.S. in Information Application, Polytech Nantes, 2021
-* B.S. in Computer Science, Ocean University of China, 2019
-
 Work experience
 ======
 * 2022/09 - 2025/12: PhD Student
@@ -48,35 +40,42 @@ Work experience
   * [DPRL](https://www.cs.rit.edu/~dprl/), [Rochester University of Technology](https://www.rit.edu/), NY, USA
   * Supervisor: [Richard Zanibbi](https://www.rit.edu/directory/rxzvcs-richard-zanibbi)
 
-* 2021/02 - 2021/08: Intern
-  * CAPACITÉS SAS
-  * Project cooperate with ByteDance 
-  * Published paper: "Specialised video quality model for enhanced user generated content (UGC) with special effects." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022.
+* 2021/02 - 2021/08: Machine Learning Intern
+  * CAPACITÉS SAS, Project cooperate with ByteDance. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746539)
+  <!-- * Published paper: "Specialised video quality model for enhanced user generated content (UGC) with special effects." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. -->
 
 * 2020/09 -2021/01: Graduation Project
-  * CAPACITÉS SAS
-  * Project cooperate with Tencent
-  * Published paper: "Multi-modal aesthetic assessment for mobile gaming image." 2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2021.
+  * CAPACITÉS SAS, Project cooperate with Tencent. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733706)
 
-* 2018/06 - 2018/09: Intern
+* 2018/06 - 2018/09: Software Development Intern
   * Huawei Suzhou Research Institute
-  * Software Development
 
 Skills
 ======
-* Technical Skills
-  * Deep Learning, Vision-Language Models, Graph Neural Networks ...
-  * Python, Bash, Perl, PyTorch, Optuna, HuggingFace, vllm ...
-  * Linux, LaTeX ...
-* Research Skills
-  * Research Design & Experimental Evaluation
-  * Model training & optimization
-  * Scientific Writing & Peer-reviewed Publications
-  * Benchmarking & Error Analysis
-* Professional Skills
-  * Language: English (Fluent), French (Fluent), Chinese (Native)
-  * Problem-Solving
-  * Collaboration in International Research Teams
+## Technical
+- **Deep Learning & ML**: Vision-Language Models, Graph Neural Networks, Transformer-based decoders  
+- **Programming & Tools**: Python, Bash, Perl, PyTorch, Optuna, HuggingFace, vLLM  
+- **Systems & Environment**: Linux, LaTeX, Git, SLURM
+
+## Research
+- Experimental design and evaluation of ML models  
+- Model training, optimization, and hyperparameter tuning  
+- Benchmarking, error analysis, and reproducible pipelines  
+- Scientific writing and peer-reviewed publications
+
+## Professional
+- **Languages**: English (Fluent), French (Fluent), Chinese (Native)  
+- Problem-solving and analytical thinking  
+- Collaboration in international, multidisciplinary research teams
+
+
+Education
+======
+* Ph.D in Computer Science and Artificial Intelligence, Nantes Université, 2025
+* M.S. in Computer Science and Application, Ocean University of China, 2022
+* M.S. in Information Application, Polytech Nantes, 2021
+* B.S. in Computer Science, Ocean University of China, 2019
+
 
 Publications
 ======

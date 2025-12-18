@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Profile
 ======
-* PhD graduate specializing in handwriting recognition for mathematical expressions, with strong experience in online stroke modeling and building deep learning systems using graph neural networks and language models.
+* PhD graduate specializing in __handwriting recognition__ for mathematical expressions, with strong experience in __online stroke modeling__ and building __deep learning systems__ using graph neural networks, Transformer, language models, etc.
 
 Selected Projects
 ======
@@ -25,6 +25,9 @@ Selected Projects
   __Keywords:__ Online Stroke Modeling, Graph Neural Networks
   - Tree-structured Transformer for Online and Offline Handwritten Math Recognition. [Paper](https://hal.science/hal-05154311/document)  
   __Keywords:__ Transformer, Tree-based Language Model
+* __Historical Document Analysis__
+  - Mathematical Expression recognition for [Leibniz Manuscripts](https://anr.fr/Project-ANR-17-CE27-0018). Paper and Datasets are coming soon.  
+  __Keywords:__ Historical Mathematical Expression, Low Resource Documents
 
 
 Education
@@ -34,12 +37,12 @@ Education
 * M.S. in Information Application, Polytech Nantes, 2021
 * B.S. in Computer Science, Ocean University of China, 2019
 
-Project and Work experience
+Work experience
 ======
-* 2022 - Present: PhD Student
-  * Laboratoire des Sciences du Numérique de Nantes, LS2N
-  * Thesis Topic: Handwritten Mathematical Expression Recognition with Graph Neural Networks and Tree-based Language Models
-  * Supervisor: Harold Mouchère
+* 2022/09 - 2025/12: PhD Student
+  * [Laboratoire des Sciences du Numérique de Nantes, LS2N](https://www.ls2n.fr/)
+  <!-- * Thesis Topic: Handwritten Mathematical Expression Recognition with Graph Neural Networks and Tree-based Language Models -->
+  * Supervisor: [Harold Mouchère](https://mouchere-h.univ-nantes.io/home-page/)
 
 * 2023/06 - 2023/09: Visit Researcher
   * DPRL, Rochester University of Technology, NY, USA

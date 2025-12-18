@@ -15,16 +15,16 @@ Profile
 Selected Projects
 ======
 * __CROHME2023__
-  - Competition on recognition of handwritten mathematical expressions. [Paper](https://hal.science/hal-04264727v1/file/CROHME_2023_competition_report_paper.pdf), [Datasets](https://zenodo.org/records/8428035)
-  - __Keywords:__ Handwritten Mathematical Expressions datasets, Online and Offline
+  - Competition on recognition of handwritten mathematical expressions. [Paper](https://hal.science/hal-04264727v1/file/CROHME_2023_competition_report_paper.pdf), [Datasets](https://zenodo.org/records/8428035)  
+  __Keywords:__ Handwritten Mathematical Expressions datasets, Online and Offline
 * __Contextual Reasoning for CROHME__
-  - Boosting Math Recognition with Contextual Text. [Paper](https://hal.science/hal-05252349/), [Datasets](https://zenodo.org/records/17122781)
-  - __Keywords:__ Contextual Text for Mathematical Expressions, Vision Large Language Model
+  - Boosting Math Recognition with Contextual Text. [Paper](https://hal.science/hal-05252349/), [Datasets](https://zenodo.org/records/17122781)  
+  __Keywords:__ Contextual Text for Mathematical Expressions, Vision Large Language Model
 * __Math Recognition Systems__
-  - Graph Modeling and Graph Neural Networks for Online Handwritten Math Recognition. [Paper](https://arxiv.org/pdf/2410.18555)
-  - __Keywords:__ Online Stroke Modeling, Graph Neural Networks
-  - Tree-structured Transformer for Online and Offline Handwritten Math Recognition. [Paper](https://hal.science/hal-05154311/document)
-  - __Keywords:__ Transformer, Tree-based Language Model
+  - Graph Modeling and Graph Neural Networks for Online Handwritten Math Recognition. [Paper](https://arxiv.org/pdf/2410.18555)  
+  __Keywords:__ Online Stroke Modeling, Graph Neural Networks
+  - Tree-structured Transformer for Online and Offline Handwritten Math Recognition. [Paper](https://hal.science/hal-05154311/document)  
+  __Keywords:__ Transformer, Tree-based Language Model
 
 
 Education

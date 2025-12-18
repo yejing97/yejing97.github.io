@@ -45,7 +45,8 @@ Work experience
   * Supervisor: [Harold Mouchère](https://mouchere-h.univ-nantes.io/home-page/)
 
 * 2023/06 - 2023/09: Visit Researcher
-  * DPRL, Rochester University of Technology, NY, USA
+  * [DPRL](https://www.cs.rit.edu/~dprl/), [Rochester University of Technology](https://www.rit.edu/), NY, USA
+  * Supervisor: [Richard Zanibbi](https://www.rit.edu/directory/rxzvcs-richard-zanibbi)
 
 * 2021/02 - 2021/08: Intern
   * CAPACITÉS SAS

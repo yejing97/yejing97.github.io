@@ -43,7 +43,7 @@ Work experience
 * 2021/02 - 2021/08: Machine Learning Intern
   * CAPACITÉS SAS, Project cooperate with ByteDance. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746539)
   <!-- * Published paper: "Specialised video quality model for enhanced user generated content (UGC) with special effects." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. -->
-
+  
 * 2020/09 -2021/01: Graduation Project
   * CAPACITÉS SAS, Project cooperate with Tencent. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733706)
 

@@ -43,7 +43,7 @@ Work experience
 * 2021/02 - 2021/08: Machine Learning Intern
   * CAPACITÉS SAS, Project cooperate with ByteDance. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746539)
   <!-- * Published paper: "Specialised video quality model for enhanced user generated content (UGC) with special effects." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. -->
-  
+
 * 2020/09 -2021/01: Graduation Project
   * CAPACITÉS SAS, Project cooperate with Tencent. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733706)
 
@@ -52,21 +52,20 @@ Work experience
 
 Skills
 ======
-## Technical
-- **Deep Learning & ML**: Vision-Language Models, Graph Neural Networks, Transformer-based decoders  
-- **Programming & Tools**: Python, Bash, Perl, PyTorch, Optuna, HuggingFace, vLLM  
-- **Systems & Environment**: Linux, LaTeX, Git, SLURM
+* Technical
+  * **Deep Learning & ML**: Vision-Language Models, Graph Neural Networks, Transformer-based decoders, etc.  
+  * **Programming & Tools**: Python, PyTorch, Optuna, HuggingFace, etc. 
 
-## Research
-- Experimental design and evaluation of ML models  
-- Model training, optimization, and hyperparameter tuning  
-- Benchmarking, error analysis, and reproducible pipelines  
-- Scientific writing and peer-reviewed publications
+* Research
+  * Experimental design and evaluation of ML models  
+  * Data collection and annotation
+  * Scientific writing and peer-reviewed publications
+<!-- - Model training, optimization, and hyperparameter tuning  
+- Benchmarking, error analysis, and reproducible pipelines   -->
+<!-- - Scientific writing and peer-reviewed publications -->
 
-## Professional
-- **Languages**: English (Fluent), French (Fluent), Chinese (Native)  
-- Problem-solving and analytical thinking  
-- Collaboration in international, multidisciplinary research teams
+* Languages
+  * English (Fluent), French (Fluent), Chinese (Native)  
 
 
 Education
@@ -79,7 +78,7 @@ Education
 
 Publications
 ======
-All the publications see [Complete Publications List](/publications/)
+All the publications see [Complete Publications List](https://scholar.google.com/citations?user=EZSxn4cAAAAJ&hl=fr&oi=ao)
 
 <!-- Talks
 ======

@@ -53,16 +53,13 @@ Work experience
 Skills
 ======
 * Technical
-  * **Deep Learning & ML**: Vision-Language Models, Graph Neural Networks, Transformer-based decoders, etc.  
-  * **Programming & Tools**: Python, PyTorch, Optuna, HuggingFace, etc. 
+  * Deep Learning & ML: Vision-Language Models, Graph Neural Networks, Transformer-based decoders, etc.  
+  * Programming & Tools: Python, PyTorch, Optuna, HuggingFace, etc. 
 
 * Research
   * Experimental design and evaluation of ML models  
   * Data collection and annotation
   * Scientific writing and peer-reviewed publications
-<!-- - Model training, optimization, and hyperparameter tuning  
-- Benchmarking, error analysis, and reproducible pipelines   -->
-<!-- - Scientific writing and peer-reviewed publications -->
 
 * Languages
   * English (Fluent), French (Fluent), Chinese (Native)  

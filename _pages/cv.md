@@ -40,12 +40,12 @@ Work experience
   * [DPRL](https://www.cs.rit.edu/~dprl/), [Rochester University of Technology](https://www.rit.edu/), NY, USA
   * Supervisor: [Richard Zanibbi](https://www.rit.edu/directory/rxzvcs-richard-zanibbi)
 
-* 2021/02 - 2021/08: Machine Learning Intern
-  * CAPACITÉS SAS, Project cooperate with ByteDance. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746539)
-  <!-- * Published paper: "Specialised video quality model for enhanced user generated content (UGC) with special effects." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. -->
+* 2020/09 - 2021/08: Machine Learning Intern
+  * CAPACITÉS SAS
+  * Project cooperate with ByteDance. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746539)
+  * Project cooperate with Tencent. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733706)
 
-* 2020/09 -2021/01: Graduation Project
-  * CAPACITÉS SAS, Project cooperate with Tencent. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733706)
+  <!-- * Published paper: "Specialised video quality model for enhanced user generated content (UGC) with special effects." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. -->
 
 * 2018/06 - 2018/09: Software Development Intern
   * Huawei Suzhou Research Institute
@@ -53,8 +53,8 @@ Work experience
 Skills
 ======
 * Technical
-  * Deep Learning & ML: Vision-Language Models, Graph Neural Networks, Transformer-based decoders, etc.  
-  * Programming & Tools: Python, PyTorch, Optuna, HuggingFace, etc. 
+  * Deep Learning: Vision-Language Models, Graph Neural Networks, Transformer-based decoders, etc.  
+  * Programming & Frameworks: Python, PyTorch, Optuna, HuggingFace, etc. 
 
 * Research
   * Experimental design and evaluation of ML models  

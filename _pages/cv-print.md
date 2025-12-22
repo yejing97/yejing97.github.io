@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: ""
 permalink: /cv-print/
 author_profile: true
 ---
@@ -78,7 +78,7 @@ All the publications see [Complete Publications List](https://yejing97.github.io
 
 ---
 
-## Teaching
+<!-- ## Teaching
 
 ### Courses Taught
 - **Deep Learning for Computer Vision**
@@ -94,6 +94,6 @@ All the publications see [Complete Publications List](https://yejing97.github.io
 5. Dongyang Mao & Shenhong Kong - Handwritten Mathematical Expression Recognition with Self-Supervised Learning
 6. Ze Qian - Mathematical Expression Recognition in Historical Documents
 
----
+--- -->
 
 *Last updated: December 22, 2025*

@@ -41,7 +41,7 @@ Work experience
   * Supervisor: [Richard Zanibbi](https://www.rit.edu/directory/rxzvcs-richard-zanibbi)
 
 * 2020/09 - 2021/08: Machine Learning Intern
-  * CAPACITÉS SAS
+  * CAPACITÉS SAS, Supervisor: [Patrick Le Callet](https://scholar.google.com/citations?user=llgwlUgAAAAJ&hl=fr)
   * Project cooperate with ByteDance. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746539)
   * Project cooperate with Tencent. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733706)
 

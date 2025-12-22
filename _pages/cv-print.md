@@ -2,7 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv-print/
-author_profile: false
+author_profile: true
 ---
 
 # Yejing XIE
